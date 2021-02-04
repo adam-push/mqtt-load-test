@@ -19,5 +19,5 @@ A topic subscription is made for each client, matching a specified filter.
 ## Example usage:
 
 ```
-java -jar mqtt-load-test-1.0-main.jar wss://hostname:port 10 'matches/#'
+java -jar mqtt-load-test-1.0-main.jar wss://hostname:port 10 'match/#'
 ```
